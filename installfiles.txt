@@ -1,1 +1,2 @@
 https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe
+https://go.microsoft.com/fwlink/?linkid=2281613&clcid=0x409&culture=en-us&country=us
