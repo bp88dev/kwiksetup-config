@@ -1,2 +1,3 @@
 https://data-cdn.mbamupdates.com/web/mb5-setup-consumer/MBSetup.exe:::MBSetup.exe
 https://go.microsoft.com/fwlink/?linkid=2281613&clcid=0x409&culture=en-us&country=us:::MSTeamsSetup.exe
+https://bits.avcdn.net/productfamily_CCLEANER/insttype_FREE/platform_WIN_PIR/installertype_ONLINE/build_RELEASE/cookie_mmm_ccl_003_999_d9a_m:::ccsetup631.exe
