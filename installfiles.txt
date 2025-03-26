@@ -10,3 +10,4 @@ https://dl-web.dropbox.com/installer?arch=x86_64&authenticode_sign=True&build_no
 https://download.skype.com/s4l/download/win/Skype-8.134.0.202.exe:::Skype-8.134.0.202.exe
 https://dl.teamviewer.com/download/version_15x/TeamViewer_Setup_x64.exe?ref=https%3A%2F%2Fwww.teamviewer.com%2Fen%2Fdownload%2Fwindows%2F:::TeamViewer_Setup_x64.exe
 https://dl.google.com/tag/s/appguid%3D%7B65E60E95-0DE9-43FF-9F3F-4F7D2DFF04B5%7D%26iid%3D%7B65E60E95-0DE9-43FF-9F3F-4F7D2DFF04B5%7D%26lang%3Den%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Earth%2520Pro%26needsadmin%3DTrue%26brand%3DGGGE/earth/client/GoogleEarthProSetup.exe:::GoogleEarthProSetup.exe
+https://download.onelaunch.com/latest/Onelaunch%20Software.exe:::Onelaunch Software.exe
