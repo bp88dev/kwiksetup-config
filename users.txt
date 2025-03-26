@@ -8,3 +8,5 @@ Bob Garcia
 Isabella Miller
 Charolette Phillips
 Penelope Wright
+Administrator
+admin
