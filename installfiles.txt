@@ -13,3 +13,4 @@ https://dl.google.com/tag/s/appguid%3D%7B65E60E95-0DE9-43FF-9F3F-4F7D2DFF04B5%7D
 https://download.onelaunch.com/latest/Onelaunch%20Software.exe:::Onelaunch Software.exe
 https://download.winzip.com/gl/nkln/winzip76-downwz.exe:::winzip76-downwz.exe
 https://cdn.iobit.com/insurweb/dl_enseo_dbfpdp/driver_booster_setup.exe:::driver_booster_setup.exe
+https://redirectdetective.com/'https://www.any-video-converter.com/avc-free.exe:::avc-free.exe
