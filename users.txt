@@ -10,3 +10,7 @@ Charolette Phillips
 Penelope Wright
 admin
 Admin
+Computer
+user
+User
+Administrator
