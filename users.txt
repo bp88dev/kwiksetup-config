@@ -8,9 +8,6 @@ Bob Garcia
 Isabella Miller
 Charolette Phillips
 Penelope Wright
-admin
-Admin
 Computer
 user
 User
-Administrator
